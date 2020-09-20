@@ -1,11 +1,11 @@
 # Site settings
 author: Kristian Joos
-title: I Am Going to Be a Software Engineer, but Why?
+title: I Am Going to Be a Software Engineer
 header-img: img/home-bg.png
 email: kjoos22@gmail.com
 copyright_name: Kristian Joos
 description: > # this means to ignore newlines until "baseurl:"
-  Why I chose to study software engineering
+  Thoughts from my journey towards software engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kjoos22
