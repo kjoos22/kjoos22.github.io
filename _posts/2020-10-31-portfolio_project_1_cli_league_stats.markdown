@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Portfolio Project 1: CLI_League_Stats"
+title:      "Portfolio Project 1 - CLI_League_Stats"
 date:       2020-10-31 17:10:32 -0400
 permalink:  portfolio_project_1_cli_league_stats
 ---
