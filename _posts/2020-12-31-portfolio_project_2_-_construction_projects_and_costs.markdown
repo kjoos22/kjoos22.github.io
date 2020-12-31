@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Portfolio Project 2 - construction_projects_and_costs"
-date:       2020-12-31 21:04:04 +0000
+date:       2020-12-31 16:04:05 -0500
 permalink:  portfolio_project_2_-_construction_projects_and_costs
 ---
 
