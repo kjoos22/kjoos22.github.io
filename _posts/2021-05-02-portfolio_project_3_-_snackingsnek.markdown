@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Portfolio Project 3 - SnackingSnek"
-date:       2021-05-03 03:01:16 +0000
+title:      "Portfolio Project 4 - SnackingSnek"
+date:       2021-05-02 23:01:16 -0400
 permalink:  portfolio_project_3_-_snackingsnek
 ---
 
