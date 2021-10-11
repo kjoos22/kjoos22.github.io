@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Helpful Visual Studio Code Keyboard Shortcuts - Part 2"
-date:       2021-09-27 01:13:14 +0000
+date:       2021-09-26 21:13:14 -0400
 permalink:  helpful_visual_studio_code_keyboard_shortcuts_-_part_2
 ---
 
 
-This is the first entry in an on-going series on keyboard shortcuts in Visual Studio Code. Read part 1 [here](https://kjoos22.github.io/helpful_visual_studio_code_keyboard_shortcuts_-_part_1).
+This is the second entry in an on-going series on keyboard shortcuts in Visual Studio Code. Read part 1 [here](https://kjoos22.github.io/helpful_visual_studio_code_keyboard_shortcuts_-_part_1).
 
 The further along I get in my software engineering journey, the more I appreciate the productivity afforded by mastery of my text editor's keyboard shortcuts. For me, the text editor of choice is Microsoft's VS Code. I feel that being able to efficiently navigate and manipulate my project files without the need for the mouse allows me to increase the speed at which I can accomplish tasks. Additionally, having to spend less time figuring out how to accomplish certain functions, or navigating to them via the menus, affords me more time to focus on writing clean and managable code. Here are today's keyboard shortcut tips for productivity:
 
