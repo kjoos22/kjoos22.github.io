@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Extensions to Enhance Productivity in Visual Studio Code"
-date:       2021-10-18 03:17:14 +0000
+date:       2021-10-17 23:17:14 -0400
 permalink:  extensions_to_enhance_productivity_in_visual_studio_code
 ---
 
@@ -12,7 +12,7 @@ This week's post is going to change course slightly and talk about a different w
 
 **[Settings Sync](https://code.visualstudio.com/docs/editor/extension-marketplace)**
 
-Settings Sync is a helpful extension that does exactly what the name implies, it allows you to sync your settings. But what does it sync them to? Your github profile! This allows you to seamlessly sync all of your settings between multiple devices, so that you don't have to re-configure your environment everytime you use a new machine. This makes it easy to keep a work and personal device configured the same way, and if you make a change on one, the next time you open VSCode on the other(s), the change will be reflected there as well. This extension syncs just about anything you may wish to configure in VSCode, including settings, keybindings, and even other extensions. This is also extremely useful for quickly getting back up to speed should you be configuring a new machine, or starting a clean install of an existing one.
+Settings Sync is a helpful extension that does exactly what the name implies, it allows you to sync your settings. But what does it sync them to? Your github profile! This allows you to seamlessly sync all of your settings between multiple devices, so that you don't have to re-configure your environment every time you use a new machine. This makes it easy to keep a work and personal device configured the same way, and if you make a change on one, the next time you open VSCode on the other(s), the change will be reflected there as well. This extension syncs just about anything you may wish to configure in VSCode, including settings, keybindings, and even other extensions. This is also extremely useful for quickly getting back up to speed should you be configuring a new machine, or starting a clean install of an existing one.
 
 **[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)**
 
