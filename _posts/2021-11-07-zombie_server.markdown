@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Zombie Server"
-date:       2021-11-07 17:13:34 +0000
+date:       2021-11-07 12:13:34 -0500
 permalink:  zombie_server
 ---
 
