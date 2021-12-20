@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby Map Method"
-date:       2021-12-20 02:20:46 +0000
+date:       2021-12-19 21:20:46 -0500
 permalink:  ruby_map_method
 ---
 
@@ -23,7 +23,7 @@ or
 ```
 a = [1, 2, 3, 4]
 a.map do |num|
-     num * 3 }
+     num * 3 
 end
 => [3, 6, 9, 12]
 ```
