@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Vector C++"
+date:       2022-01-24 01:35:11 +0000
+permalink:  vector_c
+---
+
+
+What can sometimes be one of the more challenging aspects of learning a new programming language can also often be one of the most interesting. In this particular case, I am referring to learning the ins and outs of the new language's standard data types. When learning C++ one will inevitably come across a data type known as a vector.
+
+If coming from another language, this may be an unfamiliar term to you. Depending on where you are in your learning of C++, you may have already encountered the array standard data type. It may surprise you at first to then hear that vectors are very similar to arrays. But what is different between the array and the vector? If you've learned about arrays already, think back on something that is true about C++ arrays that may not have been true in the previous language(s) you learned. Arrays in C++ are of *fixed size*. This is where arrays and vectors differ, as vectors can change in size.
+
+Fixed size means that the number of entries in the data type are determined at compile time, and can not be changed. Also, and perhaps more importantly to fully understand the reason for the different use cases of vectors vs arrays, fixed size means that the memory allocation is static as well. Additionally, vectors can dynamically reallocate their storage if needed for growth purposes. This process is handled automatically as the vector is allocator-aware. However, vectors do not reallocate every time an element is added as it is relatively expensive in the context of processing time. To avoid having to re-allocate every time an element is added, vectors often have additional memory allocated at the time of creation to allow for growth, and will only reallocate when that extra memory is used up. There are several libraries available for different implementations of this process.
+
+Learning about the assorted data types that exist in the various programming languages is one of the many things that makes software engineering so interesting. Additionally, the pros and cons offered by the different systems present in each language also make the language choice for your implementation needs an important, and very interesting question. It is something that I look forward to continuously learning more about and implementing into my engineering processes. 
+
+
